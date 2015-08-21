@@ -42,10 +42,10 @@ The App uses the following model
 
 ## Try the app yourself
 
-https://github.com/savithriDevaraj/DataProducts
+ https://savithridevaraj.shinyapps.io/DataProducts
 
 Input your wait time in the text box (x-axis variable), and the output will tell you the probable duration of eruption (y-axis) you may be able to see.
 
-Thank you for visiting
+Thank you for visiting!
 
 
